@@ -1,11 +1,6 @@
 {
   "extensions": [
     {
-      "id": "custom-providers-panel",
-      "scripts": ["custom-providers-panel/scripts/providers.js"],
-      "stylesheets": ["custom-providers-panel/styles/providers.css"]
-    },
-    {
       "id": "system-filebrowser",
       "scripts": ["system-filebrowser/scripts/filebrowser.js"],
       "stylesheets": ["system-filebrowser/styles/filebrowser.css"]
