@@ -1,0 +1,8 @@
+{
+  "id": "custom-providers-panel",
+  "name": "Custom Providers Panel",
+  "version": "1.0.0",
+  "description": "Shows configured Hermes providers from config.yaml in Settings",
+  "scripts": ["scripts/providers.js"],
+  "stylesheets": ["styles/providers.css"]
+}

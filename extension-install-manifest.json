@@ -1,0 +1,14 @@
+{
+  "extensions": [
+    {
+      "id": "custom-providers-panel",
+      "installed_at": "2026-08-31T16:35:00Z",
+      "source": "local"
+    },
+    {
+      "id": "system-filebrowser",
+      "installed_at": "2026-08-31T16:35:00Z",
+      "source": "local"
+    }
+  ]
+}

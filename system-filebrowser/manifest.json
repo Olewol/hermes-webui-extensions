@@ -1,0 +1,8 @@
+{
+  "id": "system-filebrowser",
+  "name": "System File Browser",
+  "version": "1.0.0",
+  "description": "Quick-add /home/ole as workspace root for full filesystem browsing",
+  "scripts": ["scripts/filebrowser.js"],
+  "stylesheets": ["styles/filebrowser.css"]
+}
